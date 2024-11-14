@@ -1,20 +1,25 @@
+import imagePath1 from '../data/image1.png'; 
+import imagePath2 from '../data/image2.png'; 
+import imagePath3 from '../data/image3.jpg'; 
+import imagePath4 from '../data/image4.png'; 
+import imagePath5 from '../data/image5.png'; 
 export const Bio = {
-  name: "Roushan Kumar",
+  name: "Hemanvitha Pullela",
   roles: [
     "Full Stack Developer",
-    "Android Developer",
+    "Competitive Programmer",
     "UI/UX Designer",
-    "Programmer",
+    "Budding Problem Solver",
   ],
   description:
-    "I’m a hardworking and creative person who loves turning ideas into useful results. I have skills in Web Development and UI/UX, and I enjoy solving problems with new ideas and careful planning. Always ready to learn, I aim to do my best and go beyond what’s expected. Whether I’m working in a team or on my own, I bring energy, focus, and a passion for doing great work.",
-  github: "https://github.com/roushankumark",
+    "I’m a curious mind with an endless appetite for learning, armed with a keyboard and an ever-growing list of to-do's. By day, I’m a student balancing equations and algorithms, and by night, I’m a code sorcerer, brewing up solutions to problems that didn’t even know they needed solving. My favorite hobbies include solving puzzles (both digital and life-sized) and exploring the unknown corners of the tech universe, one line of code at a time.",
+  github: "https://github.com/hemanvithapullela0456",
   resume:
     "https://drive.google.com/file/d/1OuCrJRhzDo7TmShO5kPIvQ7tLWB2eQV7/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/roushankumar-/",
-  twitter: "https://x.com/roushankumar_",
-  insta: "https://www.instagram.com/roushan.kumar_/",
-  facebook: "https://www.facebook.com/people/Roushan-Kumar/pfbid0JyWPLYTVocTK6G4zseqcFvZofWtNPLnjzb1QYUiXxoND3GzFE8Ph4q5gMrSywxXPl/",
+  linkedin: "https://www.linkedin.com/in/hemanvitha-pullela-545a67285",
+  twitter: "https://x.com/",
+  insta: "",
+  facebook: "",
 };
 
 export const skills = [
@@ -26,11 +31,11 @@ export const skills = [
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
-      {
-        name: "Redux",
-        image:
-          "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
-      },
+      // {
+      //   name: "Redux",
+      //   image:
+      //     "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
+      // },
       {
         name: "Next Js",
         image:
@@ -102,10 +107,10 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
-      {
-        name: "Firebase",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-      },
+      // {
+      //   name: "Firebase",
+      //   image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+      // },
     ],
   },
   {
@@ -113,26 +118,26 @@ export const skills = [
 
  // title:"Android",
     skills: [
-      {
-        name: "Java",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-      },
       // {
-      //   name: "Kotlin",
+      //   name: "Java",
       //   image:
-      //     "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
+      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
       // },
-      {
-        name: "XML",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
-      },
-      {
-        name: "Android Studio",
-        image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
-      },
+      // // {
+      // //   name: "Kotlin",
+      // //   image:
+      // //     "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
+      // // },
+      // {
+      //   name: "XML",
+      //   image:
+      //     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
+      // // },
+      // {
+      //   name: "Android Studio",
+      //   image:
+      //     "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+      // },
     ],
   },
   {
@@ -153,11 +158,11 @@ export const skills = [
         image:
           "https://media.licdn.com/dms/image/v2/D560BAQHbwAwPV9OQhg/company-logo_200_200/company-logo_200_200/0/1699425514126/hoppscotch_logo?e=2147483647&v=beta&t=ZhzxvpLzYaKBnrMEbwCOiIdzRK5yAsbGLLuOiy318tM",
       },
-      {
-        name: "Abobe Photoshop",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png",
-      },
+      // {
+      //   name: "Abobe Photoshop",
+      //   image:
+      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png",
+      // },
       {
         name: "VS Code",
         image:
@@ -169,9 +174,9 @@ export const skills = [
           "https://www.svgrepo.com/show/354202/postman-icon.svg",
       },
       {
-        name: "Adobe XD",
+        name: "Notepad++",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Adobe_Acrobat_DC_logo_2020.svg/1200px-Adobe_Acrobat_DC_logo_2020.svg.png",
+          "https://w7.pngwing.com/pngs/525/34/png-transparent-notepad-text-editor-source-code-editor-notepad-text-logo-c.png",
       },
       {
         name: "Figma",
@@ -206,39 +211,41 @@ export const experiences = [
       "APIs",
       "bootstrap4"
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Delta%203.0%20Certificate.jpg?alt=media&token=cfed9ea8-ca02-4a74-a139-894e0a7e7df9",
+    doc: imagePath1
   },
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQErmENhQVwGag/company-logo_200_200/company-logo_200_200/0/1712369795023?e=1734566400&v=beta&t=KJEal9T2XKFbIko3H7PlUCGHNorLov5TfTrq1iXjG7A",
-    role: "DSA With JAVA",
-    company: "Apna College",
-    date: "May 2024 - Present",
-    desc: "I have completed a Java Programming course at Apna College, where I developed a strong understanding of object-oriented programming, data structures, and algorithm design using Java.",
+    img: imagePath2,
+    company: "Girlscript Summer of Code",
+    date: "May 2024 - July 2024",
+    desc: " I actively participated in developing and improving software features by submitting 8+ pull requests that were successfully merged, earning a spot among the top 500 contributors globally",
     skills: [
-      "Loops & Functions",
-      "Arrays",
-      "2D Arrays & Strings",
-      "etc. ~~",
+      "Git",
+      "GitHub",
+      "Open Source Collaboration",
+      "Code Review",
+      "Pull Requests",
+      "Issue Tracking",
+      "Continuous Integration"
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Java.jpg?alt=media&token=ef062dd1-09c4-4394-8c27-693f530ef633",
+    doc: imagePath3,
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1736985600&v=beta&t=Qyk9VN-tGPwlP94_w_YEU_aj9tjilGZuwoViVWq9pbE",
-    role: "JAVA Programming",
-    company: "Udemy",
-    date: "March 2024 - Sept 2024",
-    desc: "I have successfully completed a comprehensive Java Programming course from Udemy, further enhancing my skills in object-oriented programming and software development.",
+    img: imagePath4,
+    company: "HacktoberFest 2024",
+    date: "Oct 2024",
+    desc: "I actively participated in Hacktoberfest 2024, successfully having 2 pull requests merged, demonstrating my contributions to the open-source community and my commitment to collaborative development",
     skills: [
-      "Object-Oriented Programming",
-      "Array and ArrayList",
-      "Functional Programming",
-      "Java Abstract Class and Interfaces",
-      "Generics",
-      "etc. ~~"
+      "Git & GitHub",
+    "Open-source Development",
+    "Collaboration & Communication",
+    "Problem-Solving",
+    "Web Development",
+    "Code Review & Testing",
+    "Documentation"
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Udemy.jpg?alt=media&token=c626a81e-6bd1-44c3-a911-32911b1db84f",
+    doc: imagePath5
   },
 //   {
 //     id: 2,
