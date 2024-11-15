@@ -1,5 +1,5 @@
 {
-  "homepage": "https://roushankumark.github.io/Portfolio-new",
+  "homepage": "https://hemanvithapullela0456.github.io/Portfolio",
   "name": "pro",
   "version": "1.0.0",
   "main": "index.js",
@@ -52,13 +52,5 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  {
-    "homepage": "https://hemanvithapullela0456.github.io/Portfolio",
-    "scripts": {
-      "predeploy": "npm run build",
-      "deploy": "gh-pages -d build"
-    }
-  
-  
+  }
 }
