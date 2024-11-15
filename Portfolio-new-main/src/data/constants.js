@@ -27,7 +27,7 @@ export const Bio = {
     "I’m a curious mind with an endless appetite for learning, armed with a keyboard and an ever-growing list of to-do's. By day, I’m a student balancing equations and algorithms, and by night, I’m a code sorcerer, brewing up solutions to problems that didn’t even know they needed solving. My favorite hobbies include solving puzzles (both digital and life-sized) and exploring the unknown corners of the tech universe, one line of code at a time.",
   github: "https://github.com/hemanvithapullela0456",
   resume:
-    "https://drive.google.com/file/d/10ceMDkwm37HulRWA6pLkA-q1iDbof7Ph/view?usp=drive_link",
+    "",
   linkedin: "https://www.linkedin.com/in/hemanvitha-pullela-545a67285",
   twitter: "https://x.com/",
   insta: "",
