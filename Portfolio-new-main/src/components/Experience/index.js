@@ -78,9 +78,9 @@ const index = () => {
     return (
         <Container id="experience">
             <Wrapper>
-                <Title>Experience (Certificate)</Title>
+                <Title>Experience</Title>
                 <Desc>
-                I have successfully completed multiple courses and earned certifications, continuously enhancing my skills to build a strong foundation for my career development.
+                From collecting certifications like badges to diving into open-source contributions and leveling up through virtual internships, I’ve been building a solid foundation for my career, one experience at a time!
                 </Desc>
                 <TimelineSection>
                     <Timeline>

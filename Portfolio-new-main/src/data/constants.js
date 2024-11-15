@@ -3,6 +3,18 @@ import imagePath2 from '../data/image2.png';
 import imagePath3 from '../data/image3.jpg'; 
 import imagePath4 from '../data/image4.png'; 
 import imagePath5 from '../data/image5.png'; 
+import imagePath6 from '../data/image6.png'; 
+import imagePath7 from '../data/image7.png'; 
+import imagePath8 from '../data/image8.png';
+import imagePath9 from '../data/image9.png';
+import imagePath10 from '../data/image10.png';
+import imagePath11 from '../data/image11.png';
+import imagePath12 from '../data/image12.jpg';
+import imagePath13 from '../data/image13.jpg';
+import imagePath14 from '../data/image14.jpg';
+import imagePath15 from '../data/image15.png';
+import imagePath16 from '../data/image16.png';
+
 export const Bio = {
   name: "Hemanvitha Pullela",
   roles: [
@@ -15,7 +27,7 @@ export const Bio = {
     "I’m a curious mind with an endless appetite for learning, armed with a keyboard and an ever-growing list of to-do's. By day, I’m a student balancing equations and algorithms, and by night, I’m a code sorcerer, brewing up solutions to problems that didn’t even know they needed solving. My favorite hobbies include solving puzzles (both digital and life-sized) and exploring the unknown corners of the tech universe, one line of code at a time.",
   github: "https://github.com/hemanvithapullela0456",
   resume:
-    "https://drive.google.com/file/d/1OuCrJRhzDo7TmShO5kPIvQ7tLWB2eQV7/view?usp=drive_link",
+    "https://drive.google.com/file/d/10ceMDkwm37HulRWA6pLkA-q1iDbof7Ph/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/hemanvitha-pullela-545a67285",
   twitter: "https://x.com/",
   insta: "",
@@ -247,15 +259,15 @@ export const experiences = [
     ],
     doc: imagePath5
   },
-//   {
-//     id: 2,
-//     img: "image link",
-//     role: "Contributor ",
-//     company: "Name of Compeny",
-//     date: "May 2024 - ",
-//     desc: "Description ",
-//     doc: "Image Link",
-//   },
+  {
+    id: 2,
+    img: imagePath6,
+    role: "Virtual Internship Experience",
+    company: "Goldman Sachs",
+    date: "July 2024 - Nov 2024",
+    desc: " This simulation enabled me to build my experience crackingpasswords using a range of tools including Hashcat.Once I had cracked passwords I was able to come up with a range of uplifts tosuggest that would increase the overall level of password protection across theorganization.",
+    doc: imagePath7,
+  },
 //   {
 //     id: 3,
 //     img: "image link",
@@ -292,122 +304,123 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQEq8GPHw3xuXg/company-logo_200_200/company-logo_200_200/0/1708605674681/bscollege_danapur_logo?e=1734566400&v=beta&t=Hk345XXNlPZm8tB8tk5ftyPT5r2TTEzrF5yA1UMMEso",
-    school: "Bindeshwar Singh College, Danapur, PATNA",
-    date: "July 2023 - Aug 2027",
-    grade: "Currently pursuing",
-    desc: "I pursued a Bachelor’s degree in Zoology, where I developed a strong foundation in biological sciences, animal behavior, genetics, and ecology. This experience sharpened my analytical and research skills, contributing to a comprehensive understanding of the natural world and its biodiversity.",
-    degree: "Bachelor of Science - BSc, Zoology (Hons.)",
+    img: imagePath8,
+    school: "National Institute of Technology, Jamshedpur",
+    date: "Aug 2023 - July 2027",
+    grade: "CGPA : 9.53/10",
+    desc: "I am currently pursuing a Bachelor’s degree in Computer Science and Engineering, where I am developing a strong foundation in algorithms, data structures, software development, and machine learning. This experience is sharpening my problem-solving and analytical skills, contributing to a comprehensive understanding of technology and its applications in real-world scenarios.",
+    degree: "B.Tech in Computer Science and Engineering",
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQEq8GPHw3xuXg/company-logo_200_200/company-logo_200_200/0/1708605674681/bscollege_danapur_logo?e=1734566400&v=beta&t=Hk345XXNlPZm8tB8tk5ftyPT5r2TTEzrF5yA1UMMEso",
-    school: "Bindeshwar Singh College, Danapur, PATNA",
-    date: "Aug 2021 - Feb 2023",
-    grade: "2nd",
-    desc: "I completed my Class 12 education in Science with Biology at Bindeshwar Singh College, Danapur, Patna, where I developed a keen interest in understanding natural sciences and honed my analytical and observational skills.",
-    degree: "BSEB(XII), Science",
+    img: imagePath9,
+    school: "Sri Chaitanya Junior College",
+    date: "Aug 2021 - May 2023",
+    grade: "Percentage : 98.5%",
+    desc: "I completed my Class 12 education in Science with Physics, Chemistry, and Mathematics, where I developed a keen interest in problem-solving and honed my analytical and quantitative skills.",
+    degree: "BIE(XII), PCM",
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/v2/C560BAQGT73KkaIO7aw/company-logo_200_200/company-logo_200_200/0/1630660613732/holy_mission_secondary_school_logo?e=1734566400&v=beta&t=_N9FY63phvY65y3La02Z6T9YVhC4_-uancVDPaf1EF0",
-    school: "Holy Mission Secondary School, Khagaul, Patna",
-    date: "Apr 2019 - Apr 2021",
-    grade: "82.3%",
-    desc: "I completed my Class X at Holy Mission Secondary School, Khagaul, Patna, with a focus on Science and Computer Studies, achieving a perfect score of 100 out of 100 in Computer.",
-    degree: "CBSE(X), Science with Computer",
+    img: imagePath9,
+    school: "Sri Chaitanya Techno School",
+    date: "Apr 2020 - Apr 2021",
+    grade: "CGPA : 10/10",
+    desc: "I completed my Class 10 education, where I cultivated a solid understanding of fundamental concepts across various subjects and developed a disciplined approach to learning, laying the groundwork for advanced studies in science and mathematics.",
+    degree: "BSEAP(X), Science",
   },
 ];
 
 export const projects = [
   {
     id: 9,
-    title: "Wanderlust",
-    date: "Jun 2024 - Jul 2024",
+    title: "Culfest-24",
+    date: "Dec 2023 - Feb 2024",
     description:
-      "Developed a fully functional Airbnb clone website. Followed responsive design principles to ensure mobile and desktop compatibility.  Implemented key features such as user authentication, property listings, search functionality, booking system, and reviews. Integrated Google Maps API for location-based searches.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Wanderlust.png?alt=media&token=4f9074dc-a6a4-44ae-be27-ca3697b5a64a",
+      "Developed the frontend for the events page of the college cultural fest website using React JS and Tailwind CSS, ensuring a responsive and visually appealing design. Collaborated with a team of 11 developers, leveraging Git for version control to ensure smooth collaboration and streamlined development.",
+    image: imagePath11,
     tags: [
-      "Node.js",
-      "MongoDB",
-      "MySQL",
-      "API",
-      "Css",
-      "material UI",
-      "React Js",
-      "Onrender",
-      "bootstrap",
-      "Express Js",
-      "Redux",
+      "Vite", "React JS", "HTML", "Tailwind CSS",
     ],
     category: "web app",
-    github: "https://github.com/roushankumark/wanderlust",
-    webapp: "https://wanderlust-owfy.onrender.com/listings",
+    github: "https://github.com/Culfest-24/CulturalFest-24.git",
+    webapp: "https://cultural-fest-24.vercel.app/",
   },
   {
     id: 0,
-    title: "Recipe App",
-    date: "Apr 2024 - May 2024",
+    title: "Myntra Explore",
+    date: "July 2024 - Aug 2024",
     description:
-      "A dynamic and user-friendly recipe app that allows users to explore a variety of recipes with ease. The app integrates a recipe API to fetch and display recipes based on user preferences, including ingredients, cuisine types, and dietary restrictions. It features a sleek, intuitive UI with search and filter functionalities for a seamless cooking experience. Built using the MERN stack, it ensures fast performance and smooth interaction for an engaging user experience.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Recipe.png?alt=media&token=5afc265e-4bed-4f41-8022-9daa37fe8492",
-    tags: ["javascript", "APIs", "HTML", "CSS", "Templating"],
+      "Developed a fully functional Myntra-inspired platform. Designed a responsive interface for seamless mobile and desktop usability. Implemented key features such as user authentication, personalized lookbooks, wishlist management, product recommendations, and style boards. Integrated a color analysis tool for customized outfit suggestions and enhanced user engagement.",
+    image:imagePath10,
+    tags: [
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "TensorFlow",
+      "Open CV",
+      "React Js",
+      "Onrender",
+      "Express Js",
+    ],
     category: "web app",
-    github: "https://github.com/roushankumark/Recipe_App",
-    webapp: "https://prtkvs.github.io/Recipe-App/",
+    github: "https://github.com/hazraChandrima/NIT-Jamshedpur_Debug-Dynamo.github.io",
+    webapp: "",
     member: [
       {
-        name: "Roushan Kumar",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHIEDr2AP67VA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721454427682?e=1734566400&v=beta&t=7mLKlLrt31FCNmtY1N_rba6WX_uPqAYsXOEBqpqIK-c",
-        linkedin: "https://www.linkedin.com/in/roushankumar-/",
-        github: "https://github.com/roushankumark",
+        name: "Hemanvitha Pullela",
+        img: imagePath12,
+        linkedin: "https://www.linkedin.com/in/hemanvitha-pullela-545a67285",
+        github: "https://github.com/hemanvithapullela0456",
       },
       {
-        name: "Prateek Verma",
-        img: "https://media.licdn.com/dms/image/v2/D4D03AQE37eIuH6Iuog/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694675887877?e=1734566400&v=beta&t=FlJC6qMUX8al74IqLPxn0EQiZ7w_Z1S-W0JwT5x92zo",
-        linkedin: "https://www.linkedin.com/in/prateekverma0/",
-        github: "https://github.com/prtkvs",
+        name: "Chandrima Hazra",
+        img: imagePath13,
+        linkedin: "",
+        github: "",
+      },
+      {
+        name: "Avani Gupta",
+        img:imagePath14,
+        linkedin: "",
+        github: "",
       },
     ],
   },
   {
     id: 1,
     title: "Portfolio",
-    date: "March 2024 - April 2024",
+    date: "Nov 2024",
     description:
       "Designed and developed a personal portfolio website to showcase projects, skills, and experience. Integrated smooth navigation, interactive UI elements, and a contact form.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Portfolio.png?alt=media&token=9c38f442-b0ed-4914-af55-a436cb6685b7",
+    image: imagePath15,
     tags: [
-      "avascript",
+      "Javascript",
       "HTML",
       "CSS",
       "Google Drive Cloud API",
     ],
     category: "web app",
-    github: "https://github.com/roushankumark/portfolio",
-    webapp: "https://roushankumark.github.io/portfolio/",
+    github: "https://github.com/hemanvithapullela0456/Portfolio.git",
+    webapp: "",
   },
   {
     id: 2,
-    title: "Zerodha Clone",
-    date: "Aug 2024 - Sept 2024",
+    title: "Game Arcade",
+    date: "Aug 2024",
     description:
-      "A fully responsive clone of the Zerodha stock trading platform, designed to replicate its core features and user interface. This web application allows users to view stock prices, market trends, and simulate placing trades with an intuitive and clean UI. Built using the MERN stack, the project focuses on high performance, data fetching, and user-centric design. The clone demonstrates proficiency in implementing APIs, managing state, and creating seamless user interactions.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Zeerodha.png?alt=media&token=2d337fbd-31a0-48fa-943b-0b34669382ce",
-    tags: ["javascript,", "React", "MongoDB", "MySQL", "Authentication", "bootstrap"],
+      "Developed an interactive game arcade featuring Sudoku Solver and Simon Says. The Sudoku Solver uses a backtracking algorithm to solve puzzles, while Simon Says tests memory by challenging players to follow color patterns.",
+    image: imagePath16,
+    tags: ["Javascript,", "React JS", "CSS", "HTML"],
     category: "web app",
-    github: "https://github.com/roushankumark",
-    webapp: "https://zerodha.com/",
+    github: "https://github.com/hemanvithapullela0456/GameArcade.git",
+    webapp: "https://game-arcade-one.vercel.app/",
     member: [
       {
-        name: "Roushan Kumar",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHIEDr2AP67VA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721454427682?e=1734566400&v=beta&t=7mLKlLrt31FCNmtY1N_rba6WX_uPqAYsXOEBqpqIK-c",
-        linkedin: "https://www.linkedin.com/in/roushankumar-/",
-        github: "https://github.com/roushankumark",
+        name: "Hemanvitha Pullela",
+        img: imagePath12,
+        linkedin: "https://www.linkedin.com/in/hemanvitha-pullela-545a67285",
+        github: "https://github.com/hemanvithapullela0456",
       },
       // {
       //   name: "New",
@@ -417,58 +430,58 @@ export const projects = [
       // },
     ],
   },
-  {
-    id: 3,
-    title: "Velocity",
-    date: "July 2024 - Aug 2024",
-    description:
-      "Welcome to your ultimate bikers hub! Our website is dedicated to bikers and their vibrant community, offering a platform to connect, share experiences, and find the latest in biking news and events. From beginner tips to expert advice, our resources are designed to fuel your passion for the open road. Join us and be part of a growing community that celebrates the thrill of biking",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Velocity.png?alt=media&token=7dc458dd-204c-4f99-8bf1-e87b51f013df",
-    tags: ["Javascript", "HTML", "CSS", "PhotoShop"],
-    category: "web app",
-    github: "https://github.com/roushankumark/Velocity",
-    webapp: "https://roushankumark.github.io/Velocity/",
-  },
-  {
-    id: 10,
-    title: "Weather App",
-    date: "Sept 2024 - Nov 2024",
-    description:
-      "Designed a clean, responsive UI to display current weather, forecasts, and other relevant information. Implemented geolocation features to automatically detect the user's location and display relevant weather data.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Weather.png?alt=media&token=a33e23a8-c5d2-4bd3-8b2c-8630a29c19e6",
-    tags: ["React", "JavaScript", "OpenWeather API"],
-    category: "android app",
-    github: "https://github.com/roushankumark/weatherapp",
-    webapp: "https://github.com/roushankumark",
-  },
-  {
-    id: 4,
-    title: "Gemini Ai",
-    date: "Oct 2024 - Currently Working On it",
-    description:
-      "Gemini AI is a cutting-edge platform designed to revolutionize the way businesses interact with artificial intelligence. It leverages advanced machine learning models to provide personalized, data-driven insights, helping companies make informed decisions and streamline operations. With a focus on scalability and ease of use, Gemini AI offers tools for automation, predictive analytics, and real-time data processing, empowering businesses to stay ahead in a rapidly evolving digital landscape. Its intuitive interface and powerful algorithms make it an ideal solution for enhancing productivity and driving innovation.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/gemini.png?alt=media&token=37507a6c-3c08-4e48-b821-f749a7dd5ff3",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS", "APIs"],
-    category: "machine learning",
-    github: "https://github.com/roushankumark",
-    webapp: "https://github.com/roushankumark",
-  },
-  {
-    id: 5,
-    title: "ChatGPT",
-    date: "Next Project",
-    description:
-      "ChatGPT is a state-of-the-art conversational AI developed by OpenAI, designed to understand and generate human-like text. It excels at answering questions, providing insights, and engaging in meaningful dialogue across a wide range of topics. With its advanced natural language processing capabilities, ChatGPT is widely used in customer service, content creation, and educational support, helping users access information efficiently. Its adaptability and continuous learning make it a powerful tool for businesses and individuals seeking intelligent, interactive communication solutions.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/ChatGPT.png?alt=media&token=a04f5731-1d81-4981-aca6-122f592fd65b",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS", "APIs"],
-    category: "machine learning",
-    github: "https://github.com/roushankumark",
-    webapp: "https://github.com/roushankumark",
-  },
+  // {
+  //   id: 3,
+  //   title: "Velocity",
+  //   date: "July 2024 - Aug 2024",
+  //   description:
+  //     "Welcome to your ultimate bikers hub! Our website is dedicated to bikers and their vibrant community, offering a platform to connect, share experiences, and find the latest in biking news and events. From beginner tips to expert advice, our resources are designed to fuel your passion for the open road. Join us and be part of a growing community that celebrates the thrill of biking",
+  //   image:
+  //     "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Velocity.png?alt=media&token=7dc458dd-204c-4f99-8bf1-e87b51f013df",
+  //   tags: ["Javascript", "HTML", "CSS", "PhotoShop"],
+  //   category: "web app",
+  //   github: "https://github.com/roushankumark/Velocity",
+  //   webapp: "https://roushankumark.github.io/Velocity/",
+  // },
+  // {
+  //   id: 10,
+  //   title: "Weather App",
+  //   date: "Sept 2024 - Nov 2024",
+  //   description:
+  //     "Designed a clean, responsive UI to display current weather, forecasts, and other relevant information. Implemented geolocation features to automatically detect the user's location and display relevant weather data.",
+  //   image:
+  //     "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Weather.png?alt=media&token=a33e23a8-c5d2-4bd3-8b2c-8630a29c19e6",
+  //   tags: ["React", "JavaScript", "OpenWeather API"],
+  //   category: "android app",
+  //   github: "https://github.com/roushankumark/weatherapp",
+  //   webapp: "https://github.com/roushankumark",
+  // },
+  // {
+  //   id: 4,
+  //   title: "Gemini Ai",
+  //   date: "Oct 2024 - Currently Working On it",
+  //   description:
+  //     "Gemini AI is a cutting-edge platform designed to revolutionize the way businesses interact with artificial intelligence. It leverages advanced machine learning models to provide personalized, data-driven insights, helping companies make informed decisions and streamline operations. With a focus on scalability and ease of use, Gemini AI offers tools for automation, predictive analytics, and real-time data processing, empowering businesses to stay ahead in a rapidly evolving digital landscape. Its intuitive interface and powerful algorithms make it an ideal solution for enhancing productivity and driving innovation.",
+  //   image:
+  //     "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/gemini.png?alt=media&token=37507a6c-3c08-4e48-b821-f749a7dd5ff3",
+  //   tags: ["React Js", "Firebase", "Firestore", "Node JS", "APIs"],
+  //   category: "machine learning",
+  //   github: "https://github.com/roushankumark",
+  //   webapp: "https://github.com/roushankumark",
+  // },
+  // {
+  //   id: 5,
+  //   title: "ChatGPT",
+  //   date: "Next Project",
+  //   description:
+  //     "ChatGPT is a state-of-the-art conversational AI developed by OpenAI, designed to understand and generate human-like text. It excels at answering questions, providing insights, and engaging in meaningful dialogue across a wide range of topics. With its advanced natural language processing capabilities, ChatGPT is widely used in customer service, content creation, and educational support, helping users access information efficiently. Its adaptability and continuous learning make it a powerful tool for businesses and individuals seeking intelligent, interactive communication solutions.",
+  //   image:
+  //     "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/ChatGPT.png?alt=media&token=a04f5731-1d81-4981-aca6-122f592fd65b",
+  //   tags: ["React Js", "Local Storage", "AWS Auth", "Node JS", "APIs"],
+  //   category: "machine learning",
+  //   github: "https://github.com/roushankumark",
+  //   webapp: "https://github.com/roushankumark",
+  // },
   // {
   //   id: 6,
   //   title: " hlo",

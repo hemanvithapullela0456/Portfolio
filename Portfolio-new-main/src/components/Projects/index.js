@@ -12,7 +12,7 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-        I have worked on a variety of projects and continue to develop new ones, constantly enhancing my skills and expanding my expertise.
+        Here are some of the projects I’ve worked on, each one helping me refine my skills and expand my expertise as I continue to take on new challenges.
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
